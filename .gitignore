@@ -1,0 +1,6 @@
+__pycache__/
+*pyc
+
+test-Editing--Todo-entry/__pycache__/
+test-Editing--Todo-entry/*pyc
+test-Editing--Todo-entry/secretkeys.py

@@ -3,3 +3,5 @@ First commit of < 3-15>  <13:28>: git init, add all files
 First commit of < 3-16>  <23:38>: Haven't coded anything today; yesterday, i coded on my phone, i have yet to push that code from my phone;
 
 First commit of < 3-17>  <23:59>: learn OTP tomorrow;
+
+First commit of < 3-18>  <10:49>  :  Learning javascript, just began (today)

@@ -30,6 +30,12 @@ console.log("fruits5:", fruits5)
 // done for now <11:14> of < 3-18>
 // next is toSpliced()
 
+// i didn't do toSpliced
+
+//it s okay, return to this later. 
+
+// 
+
 const fruits6 = ["Banana", "Orange", "Lemon", "Apple", "Mango"]
 const citrus = fruits6.slice(1)
 console.log("citrus:", citrus)
@@ -41,3 +47,26 @@ const citrus2 = fruits7.slice(1, 3)
 console.log("citrus2:", citrus2)
 
 // citrus2: [ 'Orange', 'Lemon' ]
+
+// Next is about Automatic toString()
+
+//  i can't use this example, because it used the --- document object model ---. 
+//  It uses a --- document object model --- method and one of its properties like
+//  inner html. 
+
+//  Next to learn:
+
+
+//  Searching Arrays
+//  Searching arrays are covered in the next chapter of this tutorial
+
+//  Sorting arrays covers the methods used to sort arraysg.
+//  Sorting Arrays
+
+//  Iterating Arrays
+//  Iterating arrays covers methods that operate on all array elements.
+
+// Next on the Odin Project Curr.
+
+//wattch https://www.youtube.com/watch?v=7W4pQQ20nJg
+//  title: Javascript Arrays Crash Course (6 mins)

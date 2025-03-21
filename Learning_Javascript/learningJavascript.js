@@ -70,3 +70,10 @@ console.log("citrus2:", citrus2)
 
 //wattch https://www.youtube.com/watch?v=7W4pQQ20nJg
 //  title: Javascript Arrays Crash Course (6 mins)
+
+//JS Array Search  :  Section  ::
+//  Javascript Array indexOf():
+
+const fruits8 = ["Apple3", "Orange", "Apple", "Mango"]
+let positionOfApple = fruits8.indexOf('Apple') + 1
+console.log("positionOfApple:", positionOfApple)

@@ -11,3 +11,5 @@ Last commit of < 3-18>  <23:47>  :  checkpoints :  <11:14>;  no commits left for
 First commit of < 3-20>  <23:36>:  learn more javascript  tomorrow  < 3-21>
 
 First commit of < 3-21>  <23:42>:  included one more concept onto learningJavascript.js
+
+First commit of < 3-22>  <23:44>:  for python:  install smtp, imapClient, openpyxl modules for python learning

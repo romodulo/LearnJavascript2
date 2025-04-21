@@ -21,3 +21,13 @@ class Person {
 
 const person = new Person("Bob")
 console.log(person.name)
+
+// learn fetch
+fetch("https://pokeapi.co/api/v2/pokemon/pikachu")
+    .then(res => res.json())
+    .then(data => {
+        console.log(data)
+        console.log('sprites::::')
+        console.log(data.sprites)
+    })
+    .catch(error => console.log('ERROR'))

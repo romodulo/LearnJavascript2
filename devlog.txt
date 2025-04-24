@@ -29,3 +29,5 @@ First commit of < 4-23>  <23:02>:  modify html file called New.html
 created a new git branch
 
 First commit of < 4-24>  <23:58>: modify
+
+checkpoint:  < 4-24>  <23:59>: work on gitignored directory

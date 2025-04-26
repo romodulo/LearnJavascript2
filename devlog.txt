@@ -25,3 +25,9 @@ First commit of < 4-22>  <23:32>:  no coding for today;
 checkpoint:  < 4-22>  <23:51>:  studying some css:  picocss-examples--(mine and others);
 
 First commit of < 4-23>  <23:02>:  modify html file called New.html
+
+created a new git branch
+
+First commit of < 4-24>  <23:58>: modify
+
+checkpoint:  < 4-24>  <23:59>: work on gitignored directory
